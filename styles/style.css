@@ -90,7 +90,7 @@ border-radius: 10px;
 
 
 .form{
-    margin: 0 800px 106px 400px;
+    margin: 0 700px 106px 250px;
 }
 
 /* tour */
@@ -334,4 +334,76 @@ font-weight: 400;
 .line{
     margin: 50px 284px 50px 284px;
 }
+@media screen and (max-width: 600px) {
+    .form{
+        display: ;
+    }
 
+.popular{
+flex-direction: column;
+
+
+}
+.text{
+    margin-left: 12px;
+}
+.image{
+/* width: 500px; */
+
+
+}
+.card{
+    flex-direction: column;
+}
+.card-3{
+    margin-left: 120px;
+}
+.newsletter{
+    flex-direction: column;
+}
+.choose{
+
+margin-right: 10px;
+    margin-left: 0px;
+
+
+}
+
+.footer{
+
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.input{
+    display: grid;
+}   
+.banner{
+    
+}
+.foot{
+margin-left: 120px;
+
+}
+.icons{
+    margin-left:120px ;
+}
+.last{
+    margin-left: 12px;
+margin-right: 1px;
+
+}
+.line{
+    margin-left: 10px;
+}
+
+.secoond{
+
+    margin-left: 1px;
+    margin-right: 10px;
+}
+.chp{
+
+    margin-left: 1px;
+}
+
+}
